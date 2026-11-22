@@ -1,4 +1,4 @@
-# DoT
+# OnRamp
 
 ## ⚠️ Commit Convention ⚠️
 ```
@@ -11,11 +11,11 @@
 ```
 
 <p align="center">
-	<img src = "https://github.com/DONOTINTO/DoT/assets/123792519/bae7f678-e82e-400e-9f87-e21b38558161" align="center" width="19.5%">
-	<img src = "https://github.com/DONOTINTO/DoT/assets/123792519/060e8778-49a8-4934-a0a3-1ca563ede733" align="center" width="19.5%">
-	<img src = "https://github.com/DONOTINTO/DoT/assets/123792519/bb7f3e3f-5bbc-4e05-b610-5226f0ccda9c" align="center" width="19.5%">
-	<img src = "https://github.com/DONOTINTO/DoT/assets/123792519/7fd52e82-12d3-4a45-8563-5cd736cb4dc6" align="center" width="19.5%">
-	<img src = "https://github.com/DONOTINTO/DoT/assets/123792519/5d00ca7c-9d87-4f37-b411-f0d385e0353c" align="center" width="19.5%">
+	<img src = "https://github.com/DONOTINTO/OnRamp/assets/123792519/bae7f678-e82e-400e-9f87-e21b38558161" align="center" width="19.5%">
+	<img src = "https://github.com/DONOTINTO/OnRamp/assets/123792519/060e8778-49a8-4934-a0a3-1ca563ede733" align="center" width="19.5%">
+	<img src = "https://github.com/DONOTINTO/OnRamp/assets/123792519/bb7f3e3f-5bbc-4e05-b610-5226f0ccda9c" align="center" width="19.5%">
+	<img src = "https://github.com/DONOTINTO/OnRamp/assets/123792519/7fd52e82-12d3-4a45-8563-5cd736cb4dc6" align="center" width="19.5%">
+	<img src = "https://github.com/DONOTINTO/OnRamp/assets/123792519/5d00ca7c-9d87-4f37-b411-f0d385e0353c" align="center" width="19.5%">
 </p>
 
 ## COLOR RGB
